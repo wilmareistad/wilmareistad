@@ -11,13 +11,6 @@ Check out my portfolio to get to know me better.
 
 👉 [Visit my portfolio](https://reistadwilma.se)
 
-### I’m currently learing
-- React
-- Node
-- C#
-- Laravel
-- Wordpress
-
 ### Languages & Databases I've Used in Projects
 - HTML
 - CSS
@@ -27,9 +20,12 @@ Check out my portfolio to get to know me better.
 - SQLite
 - SQL
 - MongoDB
-
-### ❄️ Fun fact
-I’m currently training for Göteborgsvarvet — which means running in the snow and hoping for spring.
+- React
+- Node
+- C#
+- Laravel
+- Wordpress
+- Typescript
 
 ### Contact me here
 - Mail: wilmareistad@icloud.com
